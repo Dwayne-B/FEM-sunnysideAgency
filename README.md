@@ -40,7 +40,7 @@ Users should be able to:
 
 ## My process
 I follow a simple yet effective workflow utilizing jira to maintain steady progress.
-Design[:white_check_mark] -> Develope -> Test -> Done
+Design[:white_check_mark:] -> Develope -> Test -> Done
 Luckily Front-end Mentor provided the designs
 #### Work flow
 
